@@ -1,0 +1,9 @@
+{
+    "name": "ranhai",
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                    "Request\\Http\\": "src"
+            }
+    }
+}
