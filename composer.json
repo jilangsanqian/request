@@ -1,5 +1,5 @@
 {
-    "name": "request/http",
+    "name": "rrequest/hhttp",
     "require": {},
     "autoload": {
             "psr-4": {
