@@ -1,5 +1,5 @@
 {
-    "name": "ranhai",
+    "name": "request/http",
     "require": {},
     "autoload": {
             "psr-4": {
